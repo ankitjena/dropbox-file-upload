@@ -56,7 +56,7 @@ class TransferData:
         
 
 def main():
-    access_token = 'JRqpQ4kDLfAAAAAAAAAAwOTjTFcvah6He5BD5lq43ptbtE0EvHFFrHTXwC5tSDP8'
+    access_token = ''
 
     home = expanduser("~")
 
